@@ -1,10 +1,10 @@
-package ru.gb.oseminar.controller;
+package OOP_Course.Lesson4.OOPSeminar4.Hometask.controller;
 
-import ru.gb.oseminar.data.Student;
-import ru.gb.oseminar.data.Teacher;
-import ru.gb.oseminar.service.StudentGroupService;
-import ru.gb.oseminar.service.StudentService;
-import ru.gb.oseminar.view.StudentView;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.Student;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.Teacher;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.service.StudentGroupService;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.service.StudentService;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.view.StudentView;
 
 import java.time.LocalDate;
 import java.util.Collections;

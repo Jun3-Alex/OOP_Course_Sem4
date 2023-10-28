@@ -1,7 +1,7 @@
-package ru.gb.oseminar.view;
+package OOP_Course.Lesson4.OOPSeminar4.Hometask.view;
 
-import ru.gb.oseminar.data.Student;
-import ru.gb.oseminar.data.StudentGroup;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.Student;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.StudentGroup;
 
 import java.util.List;
 import java.util.logging.Logger;

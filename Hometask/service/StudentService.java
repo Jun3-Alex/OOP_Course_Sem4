@@ -1,6 +1,6 @@
-package ru.gb.oseminar.service;
+package OOP_Course.Lesson4.OOPSeminar4.Hometask.service;
 
-import ru.gb.oseminar.data.Student;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.Student;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

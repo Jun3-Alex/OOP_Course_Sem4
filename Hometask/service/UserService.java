@@ -1,4 +1,4 @@
-package ru.gb.oseminar.service;
+package OOP_Course.Lesson4.OOPSeminar4.Hometask.service;
 
 import java.time.LocalDate;
 import java.util.List;

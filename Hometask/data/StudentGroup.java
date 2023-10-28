@@ -1,4 +1,4 @@
-package ru.gb.oseminar.data;
+package OOP_Course.Lesson4.OOPSeminar4.Hometask.data;
 
 import java.util.List;
 

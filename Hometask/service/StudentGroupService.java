@@ -1,9 +1,9 @@
-package ru.gb.oseminar.service;
+package OOP_Course.Lesson4.OOPSeminar4.Hometask.service;
 
-import ru.gb.oseminar.data.Student;
-import ru.gb.oseminar.data.UserComparator;
-import ru.gb.oseminar.data.StudentGroup;
-import ru.gb.oseminar.data.Teacher;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.Student;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.UserComparator;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.StudentGroup;
+import OOP_Course.Lesson4.OOPSeminar4.Hometask.data.Teacher;
 
 import java.util.ArrayList;
 import java.util.Collections;
